@@ -1,0 +1,6 @@
+builds/
+dist/
+release.sh
+bin/goreleaser
+node_modules/
+.idea/
